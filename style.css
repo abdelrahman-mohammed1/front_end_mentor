@@ -1,0 +1,33 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+} 
+body{
+    
+    background:rgb(199, 211, 223);
+}
+.container {
+  width: 400px;
+  height: 580px;
+  background-color: white;
+  margin: 50px auto;
+  border-radius: 15px;
+}
+img {
+  margin: 13px;
+  width: 93%;
+  border-radius: inherit;
+} 
+.text{
+    
+margin: 5px 34px;
+text-align: center;
+font-family: Arial;
+width: 82%; 
+} 
+p{
+    font-size: 19px;
+    color: gray;
+    margin-top: 17px;
+}
